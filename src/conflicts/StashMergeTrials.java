@@ -11,5 +11,19 @@ public class StashMergeTrials {
 
 
 	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	void x () {
+		
+	}
 
 }
