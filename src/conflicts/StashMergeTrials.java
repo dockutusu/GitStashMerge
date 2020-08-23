@@ -8,22 +8,10 @@ public class StashMergeTrials {
 		System.out.println("Hasan Dogan");
 		System.out.println("Salih Dogan");
 
-
-
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	void x () {
-		
+
+	void m() {
+
 	}
 
 }
