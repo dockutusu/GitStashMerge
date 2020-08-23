@@ -5,6 +5,7 @@ public class StashMergeTrials {
 
 		System.out.println("Zeynep Dogan");
 		System.out.println("Tarik Dogan");
+		System.out.println("Salih Dogan");
 
 
 	}
