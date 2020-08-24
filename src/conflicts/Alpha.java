@@ -1,7 +1,9 @@
 package conflicts;
 
 public class Alpha {
-  
-  System.out.println("alpha");
+
+	public static void main(String[] args) {
+		System.out.println("alpha");
+	}
 
 }
